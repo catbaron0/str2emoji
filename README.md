@@ -17,7 +17,7 @@ str2emoji = Str2Emoji()
 text = "苟利国家生死以，岂因祸福避趋之"
 print(str2emoji(text))
 ```
-***结果***
+**结果**
 
 `🐶🌰国🏠生💀🐜，7⃣🎵🔥🦇👃趋🈯`
 
