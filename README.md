@@ -21,4 +21,3 @@ print(str2emoji(text))
 
 `🐶🌰国🏠生💀🐜，7⃣🎵🔥🦇👃趋🈯`
 
-
