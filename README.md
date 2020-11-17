@@ -6,7 +6,8 @@
 
 ## 安装
 ```shell
-git clone git@github.com:catbaron0/str2emoji.git && python setup.py install
+git clone git@github.com:catbaron0/str2emoji.git
+pip3 install str2emoji
 ```
 
 ## 如何使用
