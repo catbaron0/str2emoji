@@ -44,5 +44,7 @@ class Str2Emoji:
         emoji = [self.word2emoji(word) for word in words]
         return ''.join(emoji)
 
+    def __call__(self, sent: str) -> str:
+        return self.sent2emoji(sent)
 
 
