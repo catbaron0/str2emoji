@@ -8,4 +8,5 @@ setup(
     url='https://github.com/catbaron0/str2emoji',
     packages=['str2emoji'],
     install_requirs=['lac'],
+    package_data={"": ["*.json"]}
 )
